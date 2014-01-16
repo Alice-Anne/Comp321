@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">nTask</string>
+    <string name="team_name">Post Ma Notes Inc.</string>
+    <string name="copyright">©2014 Post Ma Notes Inc.</string>
 </resources>
